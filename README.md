@@ -62,4 +62,3 @@ Wyniki skryptów trafiają do podfolderów `wyniki/`. Każdy lab ma własny READ
 
 - Cortez et al. (2009), UCI Machine Learning Repository, Wine Quality: https://archive.ics.uci.edu/dataset/186/wine+quality
 - Mauna Loa CO2, pakiet `statsmodels` (oryginalnie NOAA): https://www.statsmodels.org/stable/datasets/generated/co2.html
-- Treść i kryteria wykonania: przekazane materiały Lab 1-6.
