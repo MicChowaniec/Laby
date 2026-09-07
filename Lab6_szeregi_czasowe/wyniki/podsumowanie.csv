@@ -1,0 +1,2 @@
+braki_przed_interpolacja,ADF_poziom_stat,ADF_poziom_p,KPSS_trend_stat,KPSS_trend_p_granica_gorna,ADF_roznica_stat,ADF_roznica_p,MAE_Holt_Winters,MAE_seasonal_naive,lepszy_model_wg_MAE
+59,0.03378459745825954,0.9612384528286102,1.2281634680258826,0.01,-15.727522408375822,1.3013480157811357e-28,0.47516996941705475,1.8749999999999996,Holt-Winters

@@ -1,0 +1,3 @@
+test,statystyka,p_value,alpha,odrzucenie_H0,wielkosc_efektu
+Mann-Whitney: quality red vs white,3311514.0,3.6343410707988e-23,0.05,True,-0.15435254424787237
+Spearman: alcohol vs quality,0.44692547881435385,0.0,0.05,True,0.44692547881435385

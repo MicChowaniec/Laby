@@ -1,0 +1,37 @@
+Wymiary: (6497, 14)
+
+Typy:
+fixed acidity           float64
+volatile acidity        float64
+citric acid             float64
+residual sugar          float64
+chlorides               float64
+free sulfur dioxide     float64
+total sulfur dioxide    float64
+density                 float64
+pH                      float64
+sulphates               float64
+alcohol                 float64
+quality                   int64
+wine_type                   str
+source_url                  str
+dtype: object
+
+Braki:
+fixed acidity           0
+volatile acidity        0
+citric acid             0
+residual sugar          0
+chlorides               0
+free sulfur dioxide     0
+total sulfur dioxide    0
+density                 0
+pH                      0
+sulphates               0
+alcohol                 0
+quality                 0
+wine_type               0
+source_url              0
+dtype: int64
+
+Duplikaty: 1177
